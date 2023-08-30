@@ -12,5 +12,5 @@ Job Satisfaction Rate
 Attrition Count by Education field
 Attrition Count by Gender
 
-Tableau Dashboard:  Refer HR Data Analytics Tableau Dashboard.twb
+Tableau Dashboard:  https://public.tableau.com/app/profile/monil.shah3549/viz/HR_DataAnalytics_Dashboard/HRAnalyticsDashboard
 
